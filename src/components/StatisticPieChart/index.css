@@ -1,0 +1,15 @@
+.charts {
+  margin-top: 2%;
+  background-color: #0f172a;
+  border-radius: 12px;
+  width: 100%;
+  height: 11%;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  Pie {
+    width: 5%;
+    height: 10%;
+  }
+}
